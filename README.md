@@ -1,6 +1,6 @@
 Air Traffic Analysis PROJECT
 
-This project focuses on analyzing air traffic data, delays in flights, and the growth of air passengers. The analysis is performed using Python libraries such as pandas, numpy, and matplotlib.
+This project focuses on analyzing air traffic data, delays in flights, and the growth of air passengers. The analysis is performed using Python libraries such as pandas, numpy, scipy and matplotlib.
 
 Air Traffic Analysis:
 
