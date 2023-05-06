@@ -2,6 +2,24 @@ Air Traffic Analysis PROJECT
 
 This project focuses on analyzing air traffic data, delays in flights, and the growth of air passengers. The analysis is performed using Python libraries such as pandas, numpy, scipy and matplotlib.
 
+You can run these commands to install these libraries:
+
+        For Windows:
+                pip install pandas
+                pip install numpy
+                pip install matplotlib
+                pip install scipy
+
+        For Unix/MacOS:
+                If you do not have pip installed already, use these commands to install it first:
+                        sudo apt-get install python3-pip (for Unix)
+                        sudo easy_install pip (for MacOS)
+                Then run these commands:
+                        pip3 install pandas
+                        pip3 install numpy
+                        pip3 install matplotlib
+                        pip3 install scipy
+
 Air Traffic Analysis:
 
         In the first part, we analyzed city-wise air traffic in India. Using the provided datasets, 
